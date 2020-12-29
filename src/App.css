@@ -1,0 +1,65 @@
+.tagContent {
+  width: 1042px;
+}
+
+.hotCard > img {
+  height: 100%;
+}
+
+.cardItem:hover .cardItem_title {
+  color: #ff7828;
+}
+
+.cardItem_title {
+  display: -webkit-box;
+  /*! autoprefixer: off */
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  line-height: 30px;
+  color: #333;
+}
+
+
+.item_desc {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 20px;
+  color: #999;
+  word-break: break-all;
+}
+
+.footer {
+  background-image: url('./assets/footer_bg.svg');
+  background-position: center center;
+  background-size: cover;
+}
+
+.footer_title {
+  color: #fff;
+}
+
+.submitBtn {
+  width: 160px;
+  height: 40px;
+  border-radius: 35px!important;
+}
+
+@media screen and (min-width: 600px) {
+  .skeletonHotCard, .hotCard, .hotCard > img {
+    height: 92px;
+  }
+  .hotCard:hover {
+    box-shadow: 0px 8px 32px 0px #CDD3DF;
+  }
+  .cardItem:hover {
+    background-color: #f8f8f8;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .skeletonHotCard, .hotCard, .hotCard > img {
+    height: 78px;
+  }
+}
