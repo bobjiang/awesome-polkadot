@@ -35,12 +35,12 @@ const theme = createMuiTheme({
 
 const translation = {
   zh: {
-    subTitle: '敏捷学习资源大全',
-    more: '一起发现更多资源',
+    subTitle: '波卡生态项目大全',
+    more: '发现更多波卡生态项目',
     submit: '提　交',
   },
   en: {
-    subTitle: 'A Portal for awesome Agile learning resources',
+    subTitle: 'Polkadot projects portal',
     more: 'Discover more resources',
     submit: 'Submit',
   }
@@ -146,7 +146,7 @@ class App extends React.Component {
             alignItems="center"
             mb={{ xs: 2, sm: 3, md: 4 }}>
             <Box mb={{ xs: .5, sm: 1 }}>
-              <a href="https://agile123.net/"><img src ={LogoImg} style={{height: "100px"}} alt="" /></a>
+              <a href="https://polka123.net/"><img src ={LogoImg} style={{height: "100px"}} alt="" /></a>
             </Box>
             <Box>
               <Typography color="textSecondary">
@@ -201,7 +201,7 @@ class App extends React.Component {
                   color="primary"
                   style={{ textTransform: 'none' }}
                   onClick={() => {
-                    window.open('https://github.com/bobjiang/agile123.net/issues');
+                    window.open('https://github.com/bobjiang/awesome-polkadot/issues/new');
                   }}
                   >
                   {t('submit')}

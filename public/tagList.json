@@ -8,52 +8,72 @@
     "tag_en":"Community"
   },
   {
+    "tag": "钱包",
+    "tag_en":"Wallet"
+  },
+  {
     "tag": "浏览器",
     "tag_en":"Explorer"
   },
   {
-    "tag": "文档",
-    "tag_en":"Documentation"
+    "tag": "应用",
+    "tag_en":"dApp"
   },
   {
-    "tag": "Eth2 资源",
-    "tag_en":"Eth2 Resources"
-  },
-  {
-    "tag": "DeFi",
-    "tag_en":"DeFi"
-  },
-  {
-    "tag": "Layer2",
-    "tag_en":"Layer2"
-  },
-  {
-    "tag": "DAO",
-    "tag_en":"DAO"
-  },
-  {
-    "tag": "数据分析",
-    "tag_en":"Data Analysis"
+    "tag": "基础设施",
+    "tag_en":"Infrastructure"
   },
   {
     "tag": "工具",
     "tag_en":"Tools"
   },
   {
-    "tag": "钱包",
-    "tag_en":"Wallet"
+    "tag": "跨链桥",
+    "tag_en":"Cross chain bridge"
   },
   {
-    "tag": "客户端",
-    "tag_en":"Client"
+    "tag": "隐私",
+    "tag_en":"Privacy"
+  },
+  {
+    "tag": "扩容",
+    "tag_en":"Scaling"
+  },
+  {
+    "tag": "DeFi",
+    "tag_en":"DeFi"
+  },
+  {
+    "tag": "NFT",
+    "tag_en":"NFT"
+  },
+  {
+    "tag": "物联网",
+    "tag_en":"Internet of Things"
+  },
+  {
+    "tag": "智能合约",
+    "tag_en":"Smart Contracts"
+  },
+  {
+    "tag": "DAO",
+    "tag_en":"DAO"
+  },
+  {
+    "tag": "存储",
+    "tag_en":"Storage"
   },
   {
     "tag": "预言机",
     "tag_en":"Oracle"
   },
   {
-    "tag": "应用",
-    "tag_en":"dApp"
+    "tag": "验证人",
+    "tag_en":"Validator"
+  },
+  {
+    "tag": "论坛",
+    "tag_en":"Forum"
   },
   {
     "tag": "开发者资源",
