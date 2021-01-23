@@ -4,6 +4,10 @@
     "tag_en":"Home"
   },
   {
+    "tag": "官网",
+    "tag_en":"Official"
+  },
+  {
     "tag": "社区",
     "tag_en":"Community"
   },
@@ -42,14 +46,6 @@
   {
     "tag": "DeFi",
     "tag_en":"DeFi"
-  },
-  {
-    "tag": "NFT",
-    "tag_en":"NFT"
-  },
-  {
-    "tag": "物联网",
-    "tag_en":"Internet of Things"
   },
   {
     "tag": "智能合约",
